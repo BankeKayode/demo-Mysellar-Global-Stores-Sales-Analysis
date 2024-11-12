@@ -24,11 +24,15 @@ This analysis delves into into a comprehensive investigation of Mysellar Global 
 
 ## Datasource
 <a href = "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2021&locations=ZG&start=2019"> World Bank Group </a>
-<a href = "https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/Mysellar%20Global%20Sales%20Dataset.xlsx> Mysellar Dataset <a/>
+
+<a href = "https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/Mysellar%20Global%20Sales%20Dataset.xlsx"> Mysellar Dataset <a/>
 
 ## Mysellar Global Stores Dashboard
-!https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/Mysellar%20Global%20Sales%20Dataset.xlsx
-
+![Dashboard 1](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%201.png)
+![Dashboard 2](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%202.png)
+![Dashboard 3](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%203.png)
+![Dashboard 4](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%204.png)
+![Dashboard 5](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%205.png)
 
 ## Results and Findings
 -	The online sales generated more profit in 2019 and 2020 than the offline sales channel. Profit from offline sales were more in 2021
