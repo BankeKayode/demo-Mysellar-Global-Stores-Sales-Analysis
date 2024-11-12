@@ -24,8 +24,10 @@ This analysis delves into into a comprehensive investigation of Mysellar Global 
 
 ## Datasource
 <a href = "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2021&locations=ZG&start=2019"> World Bank Group </a>
+<a href = "https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/Mysellar%20Global%20Sales%20Dataset.xlsx> Mysellar Dataset <a/>
 
 ## Mysellar Global Stores Dashboard
+!https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/Mysellar%20Global%20Sales%20Dataset.xlsx
 
 
 ## Results and Findings
@@ -47,5 +49,5 @@ This analysis delves into into a comprehensive investigation of Mysellar Global 
 -	Further investigate factors that are responsible for decrease in sales of all product categories
 
 ## Download
-
+<a href = "https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/Capstone%20project.twb"> Download the Tableau File </a>
 
