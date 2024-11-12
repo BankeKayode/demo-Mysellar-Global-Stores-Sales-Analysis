@@ -19,7 +19,7 @@ This analysis delves into into a comprehensive investigation of Mysellar Global 
 ## Techniques and Skills
 -	Data normalization
 -	Custom calculations
--	data blending 
+-	Data blending 
 -	Data visualization
 
 ## Datasource
