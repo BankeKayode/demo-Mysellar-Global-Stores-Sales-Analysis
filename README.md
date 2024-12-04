@@ -39,7 +39,7 @@ This analysis delves into into a comprehensive investigation of Mysellar Global 
 -	In 2021, there is a rapid decrease in sales and profit
 -	There was a decline in the sales of all product categories in 2020 and more in 2021
 -	Office supplies, cosmetics and household products are the top contributors to revenue and profit
--	Sub-Saharan Africa region is the top performing region in total units sold, revenue and profit
+-	Sub-Saharan Africa region is the top performing region in revenue and profit while Europe is the region with the number of units sold
 -	Among countries, Vanuatu recorded the highest total units sold and revenue while Myanmar led in total profit
 -	The average number of days it takes to ship order orders is 9 days. Europe and North America bot have the lowest average shipping time of 8 days while Australia and Oceania have the highest average shipping time of 10 days.
 -	Vanuatu, Australia, Lebanon, Russia and Equatorial Guinea are the top 5 countries by order volumes while bottom 5 are Cambodia, Cape Verde, The Gambia, Greenland Guinea  
@@ -53,5 +53,5 @@ This analysis delves into into a comprehensive investigation of Mysellar Global 
 -	Further investigate factors that are responsible for decrease in sales of all product categories
 
 ## Download
-<a href = "https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/Capstone%20project.twb"> Download the Tableau File </a>
+<a href = "https://public.tableau.com/app/profile/adebanke.kayode/viz/MySellarGlobalStoresDashboard/Dashboard1?publish=yes"> Download the Tableau File </a>
 
