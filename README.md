@@ -30,7 +30,7 @@ This analysis delves into into a comprehensive investigation of Mysellar Global 
 ## Mysellar Global Stores Dashboard
 ![Dashboard 1](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%201.png)
 ![Dashboard 2](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%202.png)
-![Dashboard 3](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%203.png)
+![Dashboard 3](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View3.png)
 ![Dashboard 4](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%204.png)
 ![Dashboard 5](https://github.com/BankeKayode/demo-Mysellar-Global-Stores-Sales-Analysis/blob/main/assets/View%205.png)
 
